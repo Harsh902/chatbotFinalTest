@@ -1,0 +1,16 @@
+.chat-header {
+    height: 45px;
+    border-radius: 2em 2em 0 0;
+    border: 5px solid rgba(82, 42, 41, 0.8);
+    border-bottom: none;
+    background: rgba(82, 42, 41, 1);
+    position: relative;
+}
+
+.chat-header p {
+    display: block;
+    padding: 0 1em 0 2em;
+    color: #fff;
+    font-weight: 700;
+    line-height: 45px;
+}

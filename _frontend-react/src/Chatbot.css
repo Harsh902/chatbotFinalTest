@@ -1,0 +1,13 @@
+.App {
+    width: 100vw;
+    height: 100vh;
+    color: #212121;
+    font-family: "Open Sans", sans-serif;
+    display: grid;
+    place-items: center;
+}
+
+.chat_window {
+    width: 90%;
+    height: 98vh;
+}

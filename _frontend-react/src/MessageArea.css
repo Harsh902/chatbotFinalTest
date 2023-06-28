@@ -1,0 +1,19 @@
+#messages {
+    position: relative;
+    list-style: none;
+    padding: 20px 10px 0 10px;
+    margin: 0;
+    height: calc(100vh - (45px + 70px));
+    overflow: scroll;
+    background-image: url("../public/wine.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.message-area{
+    border: 5px solid rgba(82, 42, 41, 0.8);
+    border-bottom: none;
+    border-top: none;
+    position: relative;
+}
